@@ -29,3 +29,10 @@
 **Link to work:** [PR link](https://github.com/kallaway/100-days-of-code/pull/328)
 
 
+
+
+##### Day 1: 10th August 2020
+###### 
+
+
+**Today's Progress**: Today I forced myself to go back to step one and be framework free. I 
